@@ -1,0 +1,214 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "产品管理",
+    "children" : [ {
+      "name" : "零售商品",
+      "children" : [ {
+        "name" : "通过商品名称查询",
+        "uid" : "878e3b778dbedc43",
+        "parentUid" : "c517aa56cc00b4b36890fb071fdf58e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1663579297089,
+          "stop" : 1663579297197,
+          "duration" : 108
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "通过产品状态查询",
+        "uid" : "ce4ecc3963d22861",
+        "parentUid" : "c517aa56cc00b4b36890fb071fdf58e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1663579297214,
+          "stop" : 1663579297562,
+          "duration" : 348
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c517aa56cc00b4b36890fb071fdf58e4"
+    }, {
+      "name" : "素材管理",
+      "children" : [ {
+        "name" : "删除素材",
+        "children" : [ {
+          "name" : "删除素材->成功",
+          "uid" : "15c7c6aff3dabbca",
+          "parentUid" : "35b6047d8b055bf0185041d6ed0ffc86",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663579300326,
+            "stop" : 1663579300459,
+            "duration" : 133
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "35b6047d8b055bf0185041d6ed0ffc86"
+      }, {
+        "name" : "新增素材",
+        "children" : [ {
+          "name" : "新增素材->成功",
+          "uid" : "a30415f897a95652",
+          "parentUid" : "17aa6a28c046ee296445630c1cccfe17",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663579300463,
+            "stop" : 1663579301435,
+            "duration" : 972
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "17aa6a28c046ee296445630c1cccfe17"
+      }, {
+        "name" : "查询",
+        "children" : [ {
+          "name" : "通过素材名称",
+          "uid" : "b99e8e2835ad0ea0",
+          "parentUid" : "ad58ae64a1ccf6b97bfe8ead58cb1056",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663579301437,
+            "stop" : 1663579301490,
+            "duration" : 53
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "通过素材分类",
+          "uid" : "3b7c8f912f35553a",
+          "parentUid" : "ad58ae64a1ccf6b97bfe8ead58cb1056",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663579301493,
+            "stop" : 1663579301571,
+            "duration" : 78
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "通过品牌商",
+          "uid" : "f40805392cf211a8",
+          "parentUid" : "ad58ae64a1ccf6b97bfe8ead58cb1056",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663579301593,
+            "stop" : 1663579301654,
+            "duration" : 61
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "通过创建时间",
+          "uid" : "e3e493973723e46d",
+          "parentUid" : "ad58ae64a1ccf6b97bfe8ead58cb1056",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663579301656,
+            "stop" : 1663579301720,
+            "duration" : 64
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ad58ae64a1ccf6b97bfe8ead58cb1056"
+      }, {
+        "name" : "修改素材",
+        "children" : [ {
+          "name" : "修改素材->成功",
+          "uid" : "82680a8d548722ce",
+          "parentUid" : "abae6cb5f9575b8ffcfed2aad5e3013a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663579301725,
+            "stop" : 1663579303945,
+            "duration" : 2220
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "abae6cb5f9575b8ffcfed2aad5e3013a"
+      } ],
+      "uid" : "5551717334fdba9a415c71e23b842e5a"
+    } ],
+    "uid" : "0eb61ae5cb59ba77cf821178b5422d84"
+  }, {
+    "name" : "登录",
+    "children" : [ {
+      "name" : "登录成功",
+      "uid" : "776d351debbafeb7",
+      "parentUid" : "6e12e06fb17fec92464fd1fd24bca881",
+      "status" : "passed",
+      "time" : {
+        "start" : 1663579297566,
+        "stop" : 1663579298723,
+        "duration" : 1157
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6e12e06fb17fec92464fd1fd24bca881"
+  }, {
+    "name" : "订单管理",
+    "children" : [ {
+      "name" : "订单列表",
+      "children" : [ {
+        "name" : "通过客户姓名查询",
+        "uid" : "be785caaea9b7227",
+        "parentUid" : "dff8813f77ecf90ad99a327e90c0a842",
+        "status" : "passed",
+        "time" : {
+          "start" : 1663579298727,
+          "stop" : 1663579299226,
+          "duration" : 499
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "通过商品名称查询",
+        "uid" : "eba8a57ca73e6883",
+        "parentUid" : "dff8813f77ecf90ad99a327e90c0a842",
+        "status" : "passed",
+        "time" : {
+          "start" : 1663579299231,
+          "stop" : 1663579299733,
+          "duration" : 502
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "通过订单状态查询",
+        "uid" : "c35329135012051d",
+        "parentUid" : "dff8813f77ecf90ad99a327e90c0a842",
+        "status" : "passed",
+        "time" : {
+          "start" : 1663579299736,
+          "stop" : 1663579300323,
+          "duration" : 587
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dff8813f77ecf90ad99a327e90c0a842"
+    } ],
+    "uid" : "516bf61276b79de3ed3b4be198275db3"
+  } ]
+}

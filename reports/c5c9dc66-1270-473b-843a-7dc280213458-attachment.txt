@@ -1,0 +1,4 @@
+90030cb1-4f93-4284-8f7d-50b238484cd0
+------------
+{'id': 1, 'user_id': '100000', 'merchant_id': 44184606, 'goods_name': '琥珀膜', 'goods_type': 1, 'goods_type_name': '太阳膜', 'brand_merchant_code': '9', 'brand_merchant_name': '琥珀', 'goods_code': '2011132009114081', 'sap_code': 'TYM001', 'retail_price': None, 'max_retail_discount': None, 'shop_price': None, 'thumb_url': 'https://dj.test.glsx.com.cn/rop-dj-smartcarlife/upload/image/20201113200454938ffb08b433cc6476aae97b0226363bd05.png', 'video_url': None, 'status': 1, 'created_by': 'glsadmin', 'created_date': datetime.datetime(2020, 11, 13, 20, 9, 11), 'updated_by': 'glsadmin', 'updated_date': datetime.datetime(2020, 11, 13, 20, 17, 43), 'deleted_flag': 'N'}
+200

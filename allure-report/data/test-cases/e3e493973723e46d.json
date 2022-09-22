@@ -1,0 +1,144 @@
+{
+  "uid" : "e3e493973723e46d",
+  "name" : "通过创建时间",
+  "fullName" : "testcases.test_sucai_select.TestSuCaiSelect#test_sucai_select_by_createTime",
+  "historyId" : "8cbf62ea48ab4d13ff4400bb6766d2f2",
+  "time" : {
+    "start" : 1663579301656,
+    "stop" : 1663579301720,
+    "duration" : 64
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1663579295887,
+      "stop" : 1663579297085,
+      "duration" : 1198
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1663579295798,
+      "stop" : 1663579295887,
+      "duration" : 89
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1：获取查询数据，并进行断言操作",
+      "time" : {
+        "start" : 1663579301656,
+        "stop" : 1663579301716,
+        "duration" : 60
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "步骤2：界面数据与数据库表数据进行校验",
+      "time" : {
+        "start" : 1663579301716,
+        "stop" : 1663579301720,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "70abe81bcdba1b6f",
+      "name" : "stdout",
+      "source" : "70abe81bcdba1b6f.txt",
+      "type" : "text/plain",
+      "size" : 1360
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "产品管理"
+  }, {
+    "name" : "story",
+    "value" : "查询"
+  }, {
+    "name" : "feature",
+    "value" : "素材管理"
+  }, {
+    "name" : "tag",
+    "value" : "dj_pc_goods"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_sucai_select"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSuCaiSelect"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AIM65B0"
+  }, {
+    "name" : "thread",
+    "value" : "10488-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_sucai_select"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "dj_pc_goods" ]
+  },
+  "source" : "e3e493973723e46d.json",
+  "parameterValues" : [ ]
+}

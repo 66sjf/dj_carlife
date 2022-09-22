@@ -1,0 +1,111 @@
+{
+  "uid" : "776d351debbafeb7",
+  "name" : "登录成功",
+  "fullName" : "testcases.test_login.TestLogin#test_login_success",
+  "historyId" : "5ad885c6d9ce548655a7f6180e114e3d",
+  "time" : {
+    "start" : 1663579297566,
+    "stop" : 1663579298723,
+    "duration" : 1157
+  },
+  "description" : "\n        登录成功\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    登录成功\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1663579295798,
+      "stop" : 1663579295887,
+      "duration" : 89
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        登录成功\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1：调用请求，返回响应数据",
+      "time" : {
+        "start" : 1663579297566,
+        "stop" : 1663579298722,
+        "duration" : 1156
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "423d44c6aee55758",
+      "name" : "stdout",
+      "source" : "423d44c6aee55758.txt",
+      "type" : "text/plain",
+      "size" : 4
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录"
+  }, {
+    "name" : "tag",
+    "value" : "dj_pc_login"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AIM65B0"
+  }, {
+    "name" : "thread",
+    "value" : "10488-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "dj_pc_login" ]
+  },
+  "source" : "776d351debbafeb7.json",
+  "parameterValues" : [ ]
+}

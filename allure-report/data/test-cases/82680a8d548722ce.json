@@ -1,0 +1,153 @@
+{
+  "uid" : "82680a8d548722ce",
+  "name" : "修改素材->成功",
+  "fullName" : "testcases.test_sucai_update.TestSuCaiUpdate#test_sucai_update",
+  "historyId" : "afdb67a75daf7a767f642e5bb2c4a031",
+  "time" : {
+    "start" : 1663579301725,
+    "stop" : 1663579303945,
+    "duration" : 2220
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1663579295887,
+      "stop" : 1663579297085,
+      "duration" : 1198
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1663579295798,
+      "stop" : 1663579295887,
+      "duration" : 89
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1：获取缩略图图片地址",
+      "time" : {
+        "start" : 1663579301725,
+        "stop" : 1663579303324,
+        "duration" : 1599
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "步骤2：获取产品主图图片地址",
+      "time" : {
+        "start" : 1663579303324,
+        "stop" : 1663579303878,
+        "duration" : 554
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "步骤3：修改素材->成功",
+      "time" : {
+        "start" : 1663579303878,
+        "stop" : 1663579303944,
+        "duration" : 66
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "产品管理"
+  }, {
+    "name" : "feature",
+    "value" : "素材管理"
+  }, {
+    "name" : "story",
+    "value" : "修改素材"
+  }, {
+    "name" : "tag",
+    "value" : "dj_pc_goods"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_sucai_update"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSuCaiUpdate"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AIM65B0"
+  }, {
+    "name" : "thread",
+    "value" : "10488-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_sucai_update"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "dj_pc_goods" ]
+  },
+  "source" : "82680a8d548722ce.json",
+  "parameterValues" : [ ]
+}

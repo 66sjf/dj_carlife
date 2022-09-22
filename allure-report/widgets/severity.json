@@ -1,0 +1,131 @@
+[ {
+  "uid" : "82680a8d548722ce",
+  "name" : "修改素材->成功",
+  "time" : {
+    "start" : 1663579301725,
+    "stop" : 1663579303945,
+    "duration" : 2220
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b99e8e2835ad0ea0",
+  "name" : "通过素材名称",
+  "time" : {
+    "start" : 1663579301437,
+    "stop" : 1663579301490,
+    "duration" : 53
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15c7c6aff3dabbca",
+  "name" : "删除素材->成功",
+  "time" : {
+    "start" : 1663579300326,
+    "stop" : 1663579300459,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be785caaea9b7227",
+  "name" : "通过客户姓名查询",
+  "time" : {
+    "start" : 1663579298727,
+    "stop" : 1663579299226,
+    "duration" : 499
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "776d351debbafeb7",
+  "name" : "登录成功",
+  "time" : {
+    "start" : 1663579297566,
+    "stop" : 1663579298723,
+    "duration" : 1157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce4ecc3963d22861",
+  "name" : "通过产品状态查询",
+  "time" : {
+    "start" : 1663579297214,
+    "stop" : 1663579297562,
+    "duration" : 348
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3e493973723e46d",
+  "name" : "通过创建时间",
+  "time" : {
+    "start" : 1663579301656,
+    "stop" : 1663579301720,
+    "duration" : 64
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c35329135012051d",
+  "name" : "通过订单状态查询",
+  "time" : {
+    "start" : 1663579299736,
+    "stop" : 1663579300323,
+    "duration" : 587
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f40805392cf211a8",
+  "name" : "通过品牌商",
+  "time" : {
+    "start" : 1663579301593,
+    "stop" : 1663579301654,
+    "duration" : 61
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "878e3b778dbedc43",
+  "name" : "通过商品名称查询",
+  "time" : {
+    "start" : 1663579297089,
+    "stop" : 1663579297197,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eba8a57ca73e6883",
+  "name" : "通过商品名称查询",
+  "time" : {
+    "start" : 1663579299231,
+    "stop" : 1663579299733,
+    "duration" : 502
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a30415f897a95652",
+  "name" : "新增素材->成功",
+  "time" : {
+    "start" : 1663579300463,
+    "stop" : 1663579301435,
+    "duration" : 972
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b7c8f912f35553a",
+  "name" : "通过素材分类",
+  "time" : {
+    "start" : 1663579301493,
+    "stop" : 1663579301571,
+    "duration" : 78
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

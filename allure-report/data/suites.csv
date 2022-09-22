@@ -1,0 +1,41 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Sep 19 17:21:37 CST 2022","Mon Sep 19 17:21:38 CST 2022","1157","testcases","test_login","TestLogin","","","登录成功","
+        登录成功
+        :return:
+        "
+"passed","Mon Sep 19 17:21:40 CST 2022","Mon Sep 19 17:21:41 CST 2022","972","testcases","test_sucai_insert","TestSuCaiInsert","","","新增素材->成功",""
+"passed","Mon Sep 19 17:21:37 CST 2022","Mon Sep 19 17:21:37 CST 2022","348","testcases","test_goods_select","TestGoods","","","通过产品状态查询","
+        场景1 通过产品状态查询
+        :return:
+        "
+"passed","Mon Sep 19 17:21:41 CST 2022","Mon Sep 19 17:21:41 CST 2022","64","testcases","test_sucai_select","TestSuCaiSelect","","","通过创建时间",""
+"passed","Mon Sep 19 17:21:39 CST 2022","Mon Sep 19 17:21:40 CST 2022","587","testcases","test_order_select","TestOrder","","","通过订单状态查询","
+        场景3：
+        通过订单状态查询
+        :return:
+        "
+"passed","Mon Sep 19 17:21:40 CST 2022","Mon Sep 19 17:21:40 CST 2022","133","testcases","test_sucai_delete","TestSucaiDelete","","","删除素材->成功","
+        删除素材
+        :param login:
+        :return:
+        "
+"passed","Mon Sep 19 17:21:41 CST 2022","Mon Sep 19 17:21:41 CST 2022","61","testcases","test_sucai_select","TestSuCaiSelect","","","通过品牌商",""
+"passed","Mon Sep 19 17:21:37 CST 2022","Mon Sep 19 17:21:37 CST 2022","108","testcases","test_goods_select","TestGoods","","","通过商品名称查询","
+        场景1 通过商品名称查询
+        :return:
+        "
+"passed","Mon Sep 19 17:21:41 CST 2022","Mon Sep 19 17:21:41 CST 2022","78","testcases","test_sucai_select","TestSuCaiSelect","","","通过素材分类",""
+"passed","Mon Sep 19 17:21:41 CST 2022","Mon Sep 19 17:21:41 CST 2022","53","testcases","test_sucai_select","TestSuCaiSelect","","","通过素材名称","
+        场景1：通过素材名称查询
+        :return:
+        "
+"passed","Mon Sep 19 17:21:41 CST 2022","Mon Sep 19 17:21:43 CST 2022","2220","testcases","test_sucai_update","TestSuCaiUpdate","","","修改素材->成功",""
+"passed","Mon Sep 19 17:21:38 CST 2022","Mon Sep 19 17:21:39 CST 2022","499","testcases","test_order_select","TestOrder","","","通过客户姓名查询","
+        场景1：
+        通过客户姓名查询
+        "
+"passed","Mon Sep 19 17:21:39 CST 2022","Mon Sep 19 17:21:39 CST 2022","502","testcases","test_order_select","TestOrder","","","通过商品名称查询","
+        场景2：
+        通过商品名称查询
+        :return:
+        "

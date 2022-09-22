@@ -1,0 +1,174 @@
+{
+  "uid" : "eba8a57ca73e6883",
+  "name" : "通过商品名称查询",
+  "fullName" : "testcases.test_order_select.TestOrder#test_order_select_by_goodsName_success",
+  "historyId" : "d81ff418a1912ddff51af5b8e653459a",
+  "time" : {
+    "start" : 1663579299231,
+    "stop" : 1663579299733,
+    "duration" : 502
+  },
+  "description" : "\n        场景2：\n        通过商品名称查询\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    场景2：\n    通过商品名称查询\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1663579295887,
+      "stop" : 1663579297085,
+      "duration" : 1198
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1663579295798,
+      "stop" : 1663579295887,
+      "duration" : 89
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        场景2：\n        通过商品名称查询\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1：获得登录sessionid",
+      "time" : {
+        "start" : 1663579299231,
+        "stop" : 1663579299231,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "步骤2：输入测试数据",
+      "time" : {
+        "start" : 1663579299231,
+        "stop" : 1663579299231,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "步骤3：调用请求方法，获得响应数据",
+      "time" : {
+        "start" : 1663579299231,
+        "stop" : 1663579299729,
+        "duration" : 498
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "步骤4：进行其他的断言（除状态码，code,message外）",
+      "time" : {
+        "start" : 1663579299729,
+        "stop" : 1663579299732,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "42c39bd820ed631e",
+      "name" : "stdout",
+      "source" : "42c39bd820ed631e.txt",
+      "type" : "text/plain",
+      "size" : 4
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "订单列表"
+  }, {
+    "name" : "feature",
+    "value" : "订单管理"
+  }, {
+    "name" : "tag",
+    "value" : "dj_pc_order"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_order_select"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestOrder"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AIM65B0"
+  }, {
+    "name" : "thread",
+    "value" : "10488-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_order_select"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "dj_pc_order" ]
+  },
+  "source" : "eba8a57ca73e6883.json",
+  "parameterValues" : [ ]
+}
